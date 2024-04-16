@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Wangach
 - 👀 I’m interested in Web and Mobile App Development
-- 🌱 I’m currently learning React JS
-- 📫 How to reach me myself@jwangaruro.xyz
+- 📫 How to reach me myself@jwangaruro.co.ke
 - <a href="https://app.daily.dev/Johnito"><img src="https://api.daily.dev/devcards/5fe909562e5c4e1b9991aa27c5193565.png?r=du8" width="400" alt="John Kimani's Dev Card"/></a>
 
 <!---
